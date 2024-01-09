@@ -18,6 +18,12 @@
 
 #### 9. then create source folder called src and drag the ts file in it.
 
+#### 10. if you run tsc again it will compile and create a js file in dist folder
+
+#### 11 . add index.html in dist folder
+
+#### 12. 
+
 
 
 
